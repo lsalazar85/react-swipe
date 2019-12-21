@@ -1,21 +1,19 @@
-# react-swipe-detection
-React swipe left - right detection
+# React Swipe Left Right Detection
 
-# dependencies
-/node_modules
-/.pnp
-.pnp.js
+Javascript class swipe detection code and example
 
-# testing
-/coverage
 
-# production
-/build
+## Production Build Mode Run
+```
+    yarn install
+    yarn run build
+```
 
-# misc
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+```
+    npm install
+    npm run build
+```
 
-\.idea/
-
+## Development technologies and details
+* React.js
+* Javascript
