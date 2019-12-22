@@ -23,6 +23,21 @@
   color: #61dafb;
 }
 
+.slide {
+  width: 300px;
+  padding: 10px;
+  border: 1px solid #ffffff;
+  margin-bottom: 10px;
+}
+
+.swipeProductOrder {
+  border: 1px solid red;
+}
+
+.swipeProductOrderII{
+  border: 1px solid #61dafb;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
